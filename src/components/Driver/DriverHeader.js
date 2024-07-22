@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { FaCar, FaClipboardList, FaCheck, FaWallet, FaBell, FaUser, FaSignOutAlt, FaHome } from 'react-icons/fa';

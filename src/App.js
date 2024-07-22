@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import Hero from "./components/Hero";
 import DriverProfile from "./components/Driver/DriverProfile";
